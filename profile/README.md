@@ -7,7 +7,7 @@ Weik.io is an open source GitOps integration platform that manages integrations,
 - Live demo: https://demo.weik.io
 - GitHub: https://github.com/weikio/weikio
 
-[weikio/weikio](https://github.com/weikio/weikio) has the releases with the CLI files, the examples, the JSON schemas, the discussions and the security policy. [weikio/try-weikio](https://github.com/weikio/try-weikio) runs the whole platform in a dev container on your machine.
+[weikio/weikio](https://github.com/weikio/weikio) has the releases with the CLI files, the JSON schemas, the discussions and the security policy. [weikio/gitops-example](https://github.com/weikio/gitops-example) has the examples that the docs use. Fork it to run them on your own installation from GitHub Actions. [weikio/try-weikio](https://github.com/weikio/try-weikio) runs the whole platform in a dev container on your machine.
 
 ### Libraries
 
